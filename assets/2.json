@@ -1,0 +1,19 @@
+{
+  "name": "House Stark Sigil",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DMZ2fmbHNigoaH6UHBjUbHB3qWVt5p5QP2ooa6SwLBc",
+        "share": 100
+      }
+    ]
+  }
+}
